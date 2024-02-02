@@ -2,18 +2,29 @@
 Flutter 仿抖音 TikTok 上下滑动 播放视频UI框架，视频播放使用 video_player
 
 实现功能：
-1.上下滑动自动播放，loading 封面图占位
-2.全屏横竖屏切换
+
+1.上下滑动自动播放切换视频，loading 封面图占位
+
+2.全屏播放横竖屏切换
+
 3.播放进度条显示
+
 4.仿抖音评论弹窗
 
 效果图：
+
+https://github.com/PangHaHa12138/TiktokVideo/assets/28802276/98342b5e-a61a-4a4e-92ad-d84b9337174d
+
+https://github.com/PangHaHa12138/TiktokVideo/assets/28802276/f6355de1-2d72-469a-b256-4090c9e8557b
+
+<img src="https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/001.jpg" alt="Alt Text" width="450" height="900">
+<img src="https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/002.jpg" alt="Alt Text" width="450" height="900">
+<img src="https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/003.jpg" alt="Alt Text" width="450" height="900">
+<img src="https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/004.jpg" alt="Alt Text" width="450" height="900">
+<img src="https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/005.jpg" alt="Alt Text" width="900" height="450">
+
 https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/006.mp4
-![image](https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/001.jpg)
-![image](https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/002.jpg)
-![image](https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/003.jpg)
-![image](https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/004.jpg)
-![image](https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/005.jpg)
+https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/007.mp4
 
 A new Flutter project.
 
