@@ -8,7 +8,12 @@ Flutter 仿抖音 TikTok 上下滑动 播放视频UI框架，视频播放使用 
 4.仿抖音评论弹窗
 
 效果图：
-
+https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/006.mp4
+![image](https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/001.jpg)
+![image](https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/002.jpg)
+![image](https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/003.jpg)
+![image](https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/004.jpg)
+![image](https://github.com/PangHaHa12138/TiktokVideo/blob/main/screenshot/005.jpg)
 
 A new Flutter project.
 
