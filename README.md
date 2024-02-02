@@ -1,6 +1,15 @@
 # TiktokVideo
 Flutter 仿抖音 TikTok 上下滑动 播放视频UI框架，视频播放使用 video_player
 
+实现功能：
+1.上下滑动自动播放，loading 封面图占位
+2.全屏横竖屏切换
+3.播放进度条显示
+4.仿抖音评论弹窗
+
+效果图：
+
+
 A new Flutter project.
 
 ## Getting Started
